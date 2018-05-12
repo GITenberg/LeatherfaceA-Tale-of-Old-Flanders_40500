@@ -1,0 +1,31 @@
+_repo: LeatherfaceA-Tale-of-Old-Flanders_40500
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40500-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Barstow, Montagu, Mrs.
+    - Orczy, Baroness Emmuska
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: http://en.wikipedia.org/wiki/Baroness_Orczy
+description: ''
+gutenberg_issued: '2012-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40500'
+  lccn: '16018331'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flanders -- History -- Fiction'
+- !lcc 'PR'
+title: 'Leatherface: A Tale of Old Flanders'
+url: http://www.gutenberg.org/ebooks/40500
